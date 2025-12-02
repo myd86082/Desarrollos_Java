@@ -1,5 +1,7 @@
 package ejercicio7;
 
+System.out.println("Hola");
+
 public class Gato {
     private String nombre;
     private String raza;
