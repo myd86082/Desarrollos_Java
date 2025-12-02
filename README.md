@@ -4,9 +4,7 @@
 Este es un repositorio de algunos de mis programas sencillos de Java hechos en el **grado superior de Desarrollo de Aplicaciones Web** que estoy estudiando actualmente en **Mieres, Asturias**.
 
 # Entorno de Desarrollo
-<div style = "justify-content: center;">
-<img src="https://logonoid.com/images/intellij-idea-logo.png" width = 100px>
-</div>
+<img src="https://logonoid.com/images/intellij-idea-logo.png" width = 100px align = "center">
 Para la creacion de dichos programas ha sido utilizado el **IDE IntellyJ** y han sido testeados para su correcto funcionamiento.
 
 Si lo deseas, puedes **descargarlo** desde su pagina web oficial [aqui.](https://www.jetbrains.com/es-es/idea/download/?section=windows):point_left:
